@@ -24,7 +24,7 @@ item_name - name of item
 shop_name - name of shop
 item_category_name - name of item category
 
-## This project was splitted in 6 parts basedthe Data Science methodology:
+## This project was splitted in 6 parts based in the Data Science methodology:
 1 - Translate all the dataset to English
 It was done using a Google Translate API called googletrans, that I needed to get around the API request Limits.
 
