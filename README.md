@@ -1,6 +1,6 @@
 # Sales_Analytics
 
-This project is a playground of time series and regression models, the data was got in a courera competition in Kaggle,that provided with daily historical sales data. 
+This project is a playground of time series and regression models, the data was got in a coursera competition in Kaggle,that provided with daily historical sales data. 
 My goal for this project was creating a Machine Learning model to forescast the main invoice resource in Games Market in the Russia using economics exogenous variables as GDP, Unemployment Rate, Moex and the RUB value in Dollar.
 
 File descriptions
